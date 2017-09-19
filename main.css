@@ -1,0 +1,121 @@
+body {
+      background-color: #def7f7;
+}
+
+h1 {
+    color: #4604d6;
+    font-family: 'Lobster', cursive;
+    text-align: center;
+    font-size: 64px;
+}
+
+p {
+    color: #a65fc6;
+    font-size: 32px;
+    font-family: 'Cookie', cursive; 
+}
+
+h2 {
+    color: #4604d6;
+    font-family: 'Lobster', cursive;
+    font-size: 35px;
+    text-align: center;
+}
+
+p2 {
+    color: #a65fc6;
+    font-size: 32px;
+    font-family: 'Cookie', cursive; 
+}
+
+h3 {
+    color: #4604d6;
+    font-family: 'Lobster', cursive;
+    font-size: 35px;
+    text-align: center;
+}
+
+p3{
+    color: #a65fc6;
+    font-size: 32px;
+    font-family: 'Cookie', cursive;
+    
+}
+
+h4{
+   color: #4604d6;
+   font-family: 'Lobster', cursive;
+   font-size: 35px;
+   text-align: center;
+}
+
+p4{ 
+   color: #a65fc6;
+   font-size: 32px;
+   font-family: 'Cookie', cursive;
+}
+
+h5{
+   color: #4604d6;
+   font-family: 'Lobster', cursive;
+   font-size: 35px;
+   text-align: center;
+}
+
+p5{
+   color: #a65fc6;
+   font-size: 32px;
+   font-family: 'Cookie', cursive;
+}
+
+img{
+    display: block;
+    margin: auto;
+    width: 50%;
+}
+
+h6{
+   color: #4604d6;
+   font-family: 'Lobster', cursive;
+   font-size: 35px;
+   text-align: center;
+}
+
+p6{
+   color: #a65fc6;
+   font-size: 32px;
+   font-family: 'Cookie', cursive;
+}
+
+h7{
+   color: #4604d6;
+   font-family: 'lobster', cursive;
+   font-size: 35px;
+   text-align: center;
+   
+}
+ 
+p7{
+   color: #a65fc6;
+   font-size: 32px;
+   font-family: 'Cookie', cursive;
+}
+
+p8{
+   color: #a65fc6;
+   font-size: 32px;
+   font-family: 'Cookie', cursive;
+}
+
+a:visited {
+   color: #dc00ff;
+}
+
+a:hover{
+    background-color: #00db69;
+}
+
+a:hover, a:active {
+    background-color: white;
+}
+       
